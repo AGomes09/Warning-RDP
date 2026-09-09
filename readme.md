@@ -4,6 +4,14 @@ Este projeto contém um arquivo `.bat` que configura o Windows para não exibir 
 
 > ⚠️ O script altera uma configuração do Registro do Windows e precisa ser executado como administrador.
 
+## O que é o aviso Warning?
+
+O aviso **Warning** exibido pelo Windows na conexão de Área de Trabalho Remota é uma confirmação sobre o redirecionamento de recursos locais, como impressoras, unidades de disco, área de transferência e outros dispositivos. Ele serve para informar que esses recursos poderão ficar disponíveis dentro da sessão remota.
+
+Remover esse aviso não é prejudicial quando a conexão remota é feita para um computador confiável e os recursos redirecionados são conhecidos. O script apenas oculta a mensagem de confirmação; ele não desativa a Área de Trabalho Remota, não remove a autenticação, não altera as credenciais e não desativa a criptografia da conexão.
+
+A única consequência é que o Windows deixará de mostrar esse lembrete antes da conexão. Por isso, mantenha o aviso caso você se conecte a computadores desconhecidos ou queira revisar os recursos compartilhados em cada acesso.
+
 ## Requisitos
 
 - Windows com permissão de administrador.
