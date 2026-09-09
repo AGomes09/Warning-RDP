@@ -59,5 +59,4 @@ Essa configuração impede a exibição do aviso de redirecionamento ao iniciar 
 ## Arquivos
 
 - `warning_rdp.bat`: script de configuração.
-- `LEIA ANTES DE EXECUTAR.txt`: instruções rápidas de execução.
 - `readme.md`: este manual.
