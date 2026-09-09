@@ -1,7 +1,0 @@
-Para que o arquivo funcione corretamente.
-
-1 - Selecione o arquivo e clique com o botão direito do mouse.
-2 - Clique em abrir como administrador.
-3 - Clique em SIM.
-4 - Vai abrir uma tela PRETA informando que o arquivo foi executado com sucesso.
-5 - Clique para fechar a tela PRETA.
