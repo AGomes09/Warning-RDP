@@ -1,4 +1,4 @@
-# Warning Conexao Area Remota
+# Warning Conexão Área Remota ⚠️
 
 Este projeto contém um arquivo `.bat` que configura o Windows para não exibir o aviso ao abrir uma conexão de Área de Trabalho Remota.
 
